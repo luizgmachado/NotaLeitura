@@ -63,7 +63,7 @@ const notasDeLeitura = [
   { numero: '1898', status: 'Com leitura', detalhe: 'LEITURA INFORMADA CLIENTE FORMULÁRIO ESPECÍFICO' },
   { numero: '1899', status: 'Com leitura', detalhe: 'LEITURA CONFIRMADA EM CAMPO ATRAVÉS DE RELEITURA' },
   { numero: '1901', status: 'Com leitura', detalhe: 'CAIXA MAL POSICIONADA NO POSTE/CPREDE' },
-  { numero: '1902', status: 'Com leitura', detalhe: 'DEFEITO NA TAMPA MEDIDOR NO POSTE/CPREDE' },
+  { numero: '1902', status: 'Com leitura', detalhe: 'POSTE: DEFEITO NO MEDIDOR: MAL POSICIONADO, EMBAÇADO' },
   { numero: '1903', status: 'Com leitura', detalhe: 'DEFEITO NA CHAMINÉ / MEDIDOR NO POSTE/CPREDE' },
   { numero: '1904', status: 'Com leitura', detalhe: 'JANELA ACESSO/CHAPINHA LIDECOR SEM SELO/CPREDE' },
   { numero: '1905', status: 'Com leitura', detalhe: 'SEM ETIQUETAS "PERIGO" OU "CONCESSIONÁRIA"/CPREDE' },
@@ -124,9 +124,8 @@ const notasDeLeitura = [
   { numero: '6836', status: 'Sem Leitura', detalhe: 'OBRAS PÚBLICAS SEM ACIONAMENTO CONCESSIONÁRIA' },
   { numero: '6862', status: 'Sem Leitura', detalhe: 'GREVE NO SERVIÇO PÚBLICO' },
   { numero: '6872', status: 'Sem Leitura', detalhe: 'CALAMIDADE DECRETADA ENCHENTE ALAGAM TERREM VENDAV' },
-  { numero: '7000', status: 'Sem Leitura', detalhe: 'MEDIDOR SUBMERSO' },
-  { numero: '7171', status: 'Sem Leitura', detalhe: 'FATURAMENTO BLOQUEADO PARA CÁLCULO DO ART. 71' },
-  { numero: '9997', status: 'Sem Leitura', detalhe: 'REMANEJAMENTO ROTA' }
+  { numero: '7000', status: 'Sem Leitura', detalhe: 'SUSPENSÃO DE MEDIDOR DEFEITUOSO DEVIDO A CHUVAS/ENCHENTES' },
+  
 ];
 
 
